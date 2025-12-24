@@ -1,5 +1,13 @@
 # LO03_Operating-Systems-Linux
+![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Extreme-red)
+![Mode: Survival](https://img.shields.io/badge/Mode-adventure-blue)
+> **"Merci de lire le projet……Stop"**
+
 上海大学中欧工程技术学院操作系统课程的部分资料整理与制作
+
+## 评价
+**披着 OS 外壳的 Linux 杂货铺**：这是一个典型的“低配版”工程师培养案例，它略过了底层架构的厚度，只给了你一层运维的皮毛。你学了一堆可能会随版本更新而过时的 Linux 命令，却没能建立起对硬件和软件之间那层“透明契约”的深刻认知。
+
 
 ## 期末考什么？
 - 时钟算法
@@ -64,6 +72,7 @@
 * 认真做题的人分数一般
 * 卷面逻辑和评分逻辑不一致
 * 以及：
-# **Merci de lire le projet** … **Stop**
+* 
+# "Merci de lire le projet … Stop"
 
 
