@@ -75,4 +75,5 @@
 * 
 # "Merci de lire le projet … Stop"
 
+特别鸣谢某位法方老师。他用一句简洁有力的 "Merci de lire le projet……Stop"，不仅教会了我们什么是“独立思考”，更让我们深刻领悟了** Linux 系统底层最核心的逻辑：静默退出，不回显任何错误信息（Silent Failure）。
 
